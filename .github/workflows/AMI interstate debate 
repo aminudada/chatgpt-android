@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMI All Women Interstate Debate - Official Proposal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        body { font-family: 'Inter', sans-serif; }
+        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .gold-accent { color: #d4af37; }
+        .print-friendly { print-color-adjust: exact; }
+    </style>
+</head>
+<body class="bg-gray-50 print-friendly">
+    <!-- Header -->
+    <div class="gradient-bg text-white py-8 px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-3xl md:text-4xl font-bold mb-2">AFRICAN MOTHERS INITIATIVE (AMI)</h1>
+            <p class="text-xl mb-4">HAPPINESS WOMEN PROGRESSIVE AND CAPACITY DEVELOPMENT ORGANISATION</p>
+            <div class="bg-white/20 backdrop-blur-sm rounded-lg p-6 mt-6">
+                <h2 class="text-2xl font-semibold mb-2 gold-accent">OFFICIAL PROGRAM & BUDGET PROPOSAL</h2>
+                <div class="grid md:grid-cols-3 gap-4 text-sm">
+                    <div><strong>EVENT:</strong> All Women Interstate Debate & Celebration</div>
+                    <div><strong>DATES:</strong> 7th – 9th July 2025</div>
+                    <div><strong>VENUE:</strong> Abuja, Nigeria</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="max-w-4xl mx-auto px-6 py-8">
+        <!-- Appreciation Note -->
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-8">
+            <h3 class="text-2xl font-semibold text-purple-800 mb-4 flex items-center">
+                <span class="mr-3">💜</span>APPRECIATION NOTE
+            </h3>
+            <div class="bg-purple-50 p-6 rounded-lg">
+                <p class="text-gray-700 leading-relaxed mb-4">
+                    <strong>To Our Dearest Mommy and Distinguished National Leader of Women,</strong>
+                </p>
+                <p class="text-gray-700 leading-relaxed mb-4">
+                    We heartily congratulate and appreciate you for your unwavering support and the success of the ongoing Free Medical Projects across our states. Your selfless service is setting a high standard for leadership and love.
+                </p>
+                <p class="text-gray-700 leading-relaxed">
+                    As we prepare for the All Women Interstate Debate, which promises to unite, empower, and project the voice of African women nationwide, we respectfully present our program plan and budget below, trusting in your continued support and leadership.
+                </p>
+            </div>
+        </section>
+
+        <!-- Program Overview -->
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-8">
+            <h3 class="text-2xl font-semibold text-purple-800 mb-6 flex items-center">
+                <span class="mr-3">🎯</span>PROGRAM OVERVIEW
+            </h3>
+            <p class="text-gray-700 mb-6">
+                The All Women Interstate Debate is a three-day empowerment and unity event designed to:
+            </p>
+            <div class="grid md:grid-cols-1 gap-4">
+                <div class="flex items-start space-x-3">
+                    <div class="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
+                    <p class="text-gray-700">Foster intellectual engagement and leadership among women across Nigeria.</p>
+                </div>
+                <div class="flex items-start space-x-3">
+                    <div class="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
+                    <p class="text-gray-700">Strengthen state-level collaboration through healthy debate and solution-building.</p>
+                </div>
+                <div class="flex items-start space-x-3">
+                    <div class="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
+                    <p class="text-gray-700">Honour and project the leadership image of our National Matron and African Mother General, Her Excellency (Mommy).</p>
+                </div>
+            </div>
+            <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 mt-6">
+                <p class="text-gray-700 font-medium">
+                    This high-level engagement will be broadcast nationally, promoting your legacy across every state and region.
+                </p>
+            </div>
+        </section>
+
+        <!-- Budget Breakdown -->
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-8">
+            <h3 class="text-2xl font-semibold text-purple-800 mb-6 flex items-center">
+                <span class="mr-3">💰</span>BUDGET BREAKDOWN
+            </h3>
+            <div class="overflow-x-auto">
+                <table class="w-full border-collapse">
+                    <thead>
+                        <tr class="bg-purple-100">
+                            <th class="border border-purple-300 px-4 py-3 text-left font-semibold text-purple-800">Category</th>
+                            <th class="border border-purple-300 px-4 py-3 text-left font-semibold text-purple-800">Details</th>
+                            <th class="border border-purple-300 px-4 py-3 text-right font-semibold text-purple-800">Amount (₦)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="hover:bg-gray-50">
+                            <td class="border border-gray-300 px-4 py-3 font-medium">Venue (Hall)</td>
+                            <td class="border border-gray-300 px-4 py-3">
+                                Advance paid: ₦500,000<br>
+                                Balance: ₦2,500,000
+                            </td>
+                            <td class="border border-gray-300 px-4 py-3 text-right font-semibold">₦3,000,000</td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="border border-gray-300 px-4 py-3 font-medium">Hotel Accommodation</td>
+                            <td class="border border-gray-300 px-4 py-3">
+                                Booking deposit: ₦100,000<br>
+                                Balance: ₦1,900,000
+                            </td>
+                            <td class="border border-gray-300 px-4 py-3 text-right font-semibold">₦2,000,000</td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="border border-gray-300 px-4 py-3 font-medium">Catering & Refreshments</td>
+                            <td class="border border-gray-300 px-4 py-3">
+                                2-day packs @ ₦5,500 per person (includes drinks, food, water, gift bags): ₦11,000,000<br>
+                                Additional for hotel meals and post-thanksgiving refreshment: ₦2,000,000
+                            </td>
+                            <td class="border border-gray-300 px-4 py-3 text-right font-semibold">₦13,000,000</td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="border border-gray-300 px-4 py-3 font-medium">Media & Publicity</td>
+                            <td class="border border-gray-300 px-4 py-3">Full coverage: live streaming, news agency coordination, post-production</td>
+                            <td class="border border-gray-300 px-4 py-3 text-right font-semibold">₦5,000,000</td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="border border-gray-300 px-4 py-3 font-medium">Debate Prizes</td>
+                            <td class="border border-gray-300 px-4 py-3">Awards and main winner prizes</td>
+                            <td class="border border-gray-300 px-4 py-3 text-right font-semibold">₦5,000,000</td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="border border-gray-300 px-4 py-3 font-medium">Logistics & Support</td>
+                            <td class="border border-gray-300 px-4 py-3">Consolation prizes, state executive transportation, return support, and office space provision in Abuja</td>
+                            <td class="border border-gray-300 px-4 py-3 text-right font-semibold">₦10,000,000</td>
+                        </tr>
+                        <tr class="bg-purple-100 font-bold">
+                            <td class="border border-purple-300 px-4 py-3 text-purple-800">TOTAL BUDGET</td>
+                            <td class="border border-purple-300 px-4 py-3"></td>
+                            <td class="border border-purple-300 px-4 py-3 text-right text-purple-800 text-lg">₦38,000,000</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Program Impact -->
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-8">
+            <h3 class="text-2xl font-semibold text-purple-800 mb-6 flex items-center">
+                <span class="mr-3">🌟</span>PROGRAM IMPACT AND VISION
+            </h3>
+            <div class="grid md:grid-cols-3 gap-6">
+                <div class="text-center p-4 bg-blue-50 rounded-lg">
+                    <div class="text-3xl mb-3">📺</div>
+                    <h4 class="font-semibold text-blue-800 mb-2">National Broadcast</h4>
+                    <p class="text-sm text-gray-700">Your name and vision will be carried to every state and LGA through our media strategy.</p>
+                </div>
+                <div class="text-center p-4 bg-green-50 rounded-lg">
+                    <div class="text-3xl mb-3">🏛️</div>
+                    <h4 class="font-semibold text-green-800 mb-2">Legacy Building</h4>
+                    <p class="text-sm text-gray-700">This will affirm your position not just as the First Lady of a state, but as a continental mother and national women's leader.</p>
+                </div>
+                <div class="text-center p-4 bg-orange-50 rounded-lg">
+                    <div class="text-3xl mb-3">🏢</div>
+                    <h4 class="font-semibold text-orange-800 mb-2">Sustainability</h4>
+                    <p class="text-sm text-gray-700">The office space secured in Abuja will serve as a coordination center for all AMI-related development projects and training for women across Nigeria.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Funding Request -->
+        <section class="bg-gradient-to-r from-purple-600 to-blue-600 text-white rounded-lg shadow-lg p-8 mb-8">
+            <h3 class="text-2xl font-semibold mb-4 flex items-center">
+                <span class="mr-3">🙏</span>FUNDING REQUEST
+            </h3>
+            <div class="bg-white/20 backdrop-blur-sm rounded-lg p-6">
+                <p class="mb-4 text-lg">
+                    We humbly request your kind financial support in the total sum of <strong class="gold-accent text-2xl">₦38,000,000</strong> to successfully execute and celebrate this impactful program in your honour.
+                </p>
+                <p class="text-sm">
+                    All disbursements will be accounted for with detailed reconciliation and documentation submitted to your esteemed office after the event.
+                </p>
+            </div>
+        </section>
+
+        <!-- Account Details -->
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-8">
+            <h3 class="text-2xl font-semibold text-purple-800 mb-6 flex items-center">
+                <span class="mr-3">🏦</span>ACCOUNT DETAILS
+            </h3>
+            <div class="bg-gray-50 p-6 rounded-lg">
+                <div class="grid md:grid-cols-3 gap-4">
+                    <div>
+                        <p class="text-sm text-gray-600 mb-1">Account Name</p>
+                        <p class="font-semibold">AMI HAPPINESS WOMEN PROGRESSIVE & CAPACITY DEVELOPMENT ORGANISATION</p>
+                    </div>
+                    <div>
+                        <p class="text-sm text-gray-600 mb-1">Account Number</p>
+                        <p class="font-semibold text-lg">5601348798</p>
+                    </div>
+                    <div>
+                        <p class="text-sm text-gray-600 mb-1">Bank</p>
+                        <p class="font-semibold">Fidelity Bank PLC</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Closing Remarks -->
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-8">
+            <h3 class="text-2xl font-semibold text-purple-800 mb-6 flex items-center">
+                <span class="mr-3">💝</span>CLOSING REMARKS
+            </h3>
+            <div class="bg-purple-50 p-6 rounded-lg">
+                <p class="text-gray-700 leading-relaxed mb-4">
+                    <strong>Dearest Mommy,</strong> we believe this celebration will not only elevate our voices but also immortalize your impact across Nigeria. Your leadership has already touched thousands — this event will extend your legacy across borders and into the future.
+                </p>
+                <p class="text-gray-700 leading-relaxed mb-4">
+                    We believe God will use you to make this vision a reality. Thank you always for being our Governor's wife, our mentor, our Matron — and our National Leader.
+                </p>
+                <p class="text-gray-700 leading-relaxed font-medium">
+                    God bless you, and God bless Nigeria.
+                </p>
+            </div>
+            
+            <div class="mt-8 text-right">
+                <p class="text-gray-700 mb-2"><strong>With sincere love and gratitude,</strong></p>
+                <p class="text-purple-800 font-semibold text-lg">Margaret Mkpanam</p>
+                <p class="text-gray-600 text-sm">On behalf of: African Mothers Initiative (AMI)</p>
+                <p class="text-gray-600 text-sm">Women Progress, Unity & Empowerment Team</p>
+            </div>
+        </section>
+
+        <!-- Print Button -->
+        <div class="text-center mb-8">
+            <button onclick="window.print()" class="bg-purple-600 hover:bg-purple-700 text-white px-8 py-3 rounded-lg font-semibold shadow-lg transition-colors duration-200">
+                🖨️ Print Proposal
+            </button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-6 text-center">
+        <p class="text-sm">© 2024 African Mothers Initiative (AMI) - Empowering Women Across Nigeria</p>
+    </div>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'97cef9e4e36d01f1',t:'MTc1NzUwNzg0MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
